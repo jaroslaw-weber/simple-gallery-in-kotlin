@@ -4,7 +4,7 @@ Very simple gallery app for android made in kotlin.
 
 It looks like this:
 
-![alt text](example.png)
+![alt text](example.png =150x)
 
 It sends request to server and get images list (json).
 After that it shows images in vertical layout.
